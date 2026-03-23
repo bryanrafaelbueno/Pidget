@@ -10,5 +10,5 @@
 <h1 align="center">Pidget</h1>
 
 <p align="center">
-  Pidget brings customizable desktop widgets to Linux, built in Rust, with a plugin system and an online widget library.
+  Pidget brings customizable desktop widgets to Linux, built in C++, with a plugin system and an online widget library.
 </p>
